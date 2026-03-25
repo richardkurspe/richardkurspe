@@ -1,11 +1,35 @@
 # 👋 Hi, I'm Richard
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=OpenClash+Developer;Network+%26+Proxy+Engineer;Privacy+%26+Security+Focused&center=true&size=22">
-</p>
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richardkurspe&label=Profile%20Views&color=0e75b6&style=flat">
+  <!-- 背景天空 -->
+  <rect width="600" height="300" fill="#1a0033"/>
+
+  <!-- 太阳 -->
+  <circle cx="300" cy="120" r="60" fill="#ff4da6"/>
+  
+  <!-- 地面网格 -->
+  <g stroke="#ff00ff" stroke-width="1">
+    <!-- 横线 -->
+    <line x1="0" y1="200" x2="600" y2="200"/>
+    <line x1="0" y1="220" x2="600" y2="220"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    
+    <!-- 纵线动画 -->
+    <g>
+      <line x1="300" y1="200" x2="300" y2="300">
+        <animate attributeName="y1" from="200" to="300" dur="1s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
+
+  <!-- 跑车 -->
+  <rect x="260" y="230" width="80" height="20" fill="#00ffff"/>
+  <circle cx="280" cy="255" r="8" fill="black"/>
+  <circle cx="320" cy="255" r="8" fill="black"/>
+
+</svg>
 </p>
 
 ---
