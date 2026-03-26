@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛡 OpenClash AdBlock Rules
+### 🛡 [OpenClash AdBlock Rules](https://github.com/richardkurspe/openclash-rules)/
 > 高性能去广告规则（轻量 / 低误杀 / 持续更新）
 
 - 🔹 专为 OpenClash / Clash.Meta 优化
