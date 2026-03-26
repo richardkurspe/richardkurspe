@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛡 [OpenClash-rules](https://github.com/richardkurspe/openclash-rules)/
+### 🛡 [OpenClash-rules](https://github.com/richardkurspe/openclash-rules)
 > 高性能规则全家桶（轻量 / 低误杀 / 持续更新）
 
 - 🔹 专为 OpenClash / Clash.Meta 优化
