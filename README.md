@@ -5,7 +5,7 @@
 ---
 
 ## 🔐 About Me
-
+![Security](https://img.shields.io/badge/Security-Tested-green)
 - 🧠 专注 **网络代理 / 隐私安全 / GFW机制分析**
 - ⚙️ 深度使用 **OpenClash / Clash.Meta / Mihomo**
 - 🌍 优化方向：**中国网络环境 & 海外访问稳定性**
