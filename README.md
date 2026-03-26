@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Richard
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/richardkurspe/richardkurspe/master/pic.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/richardkurspe/richardkurspe/master/pic1.png" width="100%" />
 </p>
 
 ---
