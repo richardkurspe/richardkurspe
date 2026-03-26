@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Richard
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/richardkurspe/richardkurspe/master/pic1.png" width="100%" />
 </p>
+
+# 👋 Hi, I'm Richard
 
 ---
 
